@@ -1,4 +1,4 @@
-{
+{ 
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -32,4 +32,7 @@
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5"
   }
+
+  
+
 }
